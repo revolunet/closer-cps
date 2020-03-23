@@ -17,5 +17,5 @@ It takes ~20mins to generate all the datasets
 
 Data is extracted from these files :
 
-- geolocations : https://www.data.gouv.fr/fr/datasets/data-insee-sur-les-communes/
+- geolocations : https://datanova.legroupe.laposte.fr/explore/dataset/laposte_hexasmal/export/?disjunctive.code_commune_insee&disjunctive.nom_de_la_commune&disjunctive.code_postal&disjunctive.ligne_5&disjunctive.libell_d_acheminement
 - populations : https://www.insee.fr/fr/statistiques/3545833?sommaire=3292701
